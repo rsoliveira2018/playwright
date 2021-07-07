@@ -1,0 +1,31 @@
+{
+  "name": "playwright_getting_started",
+  "version": "1.0.0",
+  "description": "Getting started with Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing command - rsoliveira2018\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsoliveira2018/playwright.git"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "ui",
+    "npm"
+  ],
+  "author": "rsoliveira2018@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsoliveira2018/playwright/issues"
+  },
+  "homepage": "https://github.com/rsoliveira2018/playwright#readme",
+  "devDependencies": {
+    "playwright": "^1.12.3"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.12.3"
+  }
+}
